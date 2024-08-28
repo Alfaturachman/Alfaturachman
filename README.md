@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alfaturachman
+- 👋 Hi, I’m Alfaturachman Maulana Pahlevi
 - 👀 I’m interested in Fullstack Developer
 - 🌱 I’m currently learning Web Development
 
