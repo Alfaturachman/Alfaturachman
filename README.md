@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alfaturachman Maulana Pahlevi
-- 👀 I’m interested in Fullstack Developer
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Fullstack Web Developer
+- 🌱 I’m currently learning Laravel 11 and Machine Learning
 
 <!---
 Alfaturachman/Alfaturachman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
