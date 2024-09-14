@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alfaturachman Maulana Pahlevi
 - 👀 I’m interested in Fullstack Web Developer
-- 🌱 I’m currently learning Laravel 11 and Federated Learning
+- 🌱 I’m currently learning Laravel 11 and Federated Learning with flower
 
 <!---
 Alfaturachman/Alfaturachman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
