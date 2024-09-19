@@ -3,16 +3,10 @@
 - 🌱 I’m currently learning Laravel 11 and Federated Learning with flower
 
 <p align="center">
- <a href="https://blimbing.xyz" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"/>
- </a>
- <a href="https://www.linkedin.com/in/fahmibahtiaran" target="_blank">
+ <a href="https://www.linkedin.com/in/alfaturachman-pahlevi-4981302b6/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
- <a href="https://twitter.com/blimbing_" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
- </a>
- <a href="https://www.instagram.com/fahmi_bahtiar_a.n" target="_blank">
+ <a href="https://www.instagram.com/al.mavi" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a> 
 <a href="" target="_blank">
