@@ -42,7 +42,7 @@
 </a>
 
 
-![Alfaturachman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alfaturachman&custom_title=Fahmi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Alfaturachman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alfaturachman&custom_title=Alfaturachman's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <!---
 Alfaturachman/Alfaturachman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
