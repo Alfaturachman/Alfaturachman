@@ -9,10 +9,6 @@
  <a href="https://www.instagram.com/al.mavi" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a> 
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a> 
-</p>
 <br />
 
 <p align="left">
