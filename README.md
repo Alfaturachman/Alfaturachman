@@ -2,9 +2,7 @@
 - 👀 I’m interested in Fullstack Web Developer
 - 🌱 I’m currently learning Laravel 11 and Federated Learning with flower
 
-**Alfaturachman/Alfaturachman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<p align="center">
+<p align="left">
  <a href="https://www.linkedin.com/in/alfaturachman-pahlevi-4981302b6/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
