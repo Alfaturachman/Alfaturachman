@@ -12,7 +12,6 @@
 <br />
 
 ## Github Information -
-<hr/>
 <br/>
 
 <p align="center">
