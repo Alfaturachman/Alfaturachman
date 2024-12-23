@@ -11,6 +11,10 @@
  </a> 
 <br />
 
+## Github Information -
+<hr/>
+<br/>
+
 <p align="center">
 <a href="https://github.com/Alfaturachman">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alfaturachman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -18,17 +22,11 @@
 </a>
 </p>
 
-## Github Information -
-<hr/>
-<br/>
-
-
 <p align="center">
   <a href="https://github.com/Alfaturachman">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfaturachman&theme=radical&border=7F3FBF&background=0D1117" alt="Alfaturachman's GitHub streak"/>
   </a>
 </p>
-
 
 ![Alfaturachman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alfaturachman&custom_title=Alfaturachman's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
