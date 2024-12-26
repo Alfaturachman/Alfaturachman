@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Laravel 11 and Machine Learning
 
 <p align="left">
- <a href="https://www.linkedin.com/in/alfaturachman-pahlevi-4981302b6/" target="_blank">
+ <a href="https://www.linkedin.com/in/alfaturachman-maulana-pahlevi-4981302b6/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
  <a href="https://www.instagram.com/al.mavi" target="_blank">
