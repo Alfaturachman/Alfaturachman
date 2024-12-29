@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alfaturachman Maulana Pahlevi
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Laravel 11 and Machine Learning
+- 👀 I’m interested in Web Development and Mobile Development
+- 🌱 I’m currently learning Laravel 11 and Mobile Development
 
 <p align="left">
  <a href="https://www.linkedin.com/in/alfaturachman-maulana-pahlevi-4981302b6/" target="_blank">
