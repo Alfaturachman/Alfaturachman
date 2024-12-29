@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alfaturachman Maulana Pahlevi
-- 👀 I’m interested in Fullstack Web Developer
+- 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Laravel 11 and Machine Learning
 
 <p align="left">
