@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/Alfaturachman">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfaturachman&theme=radical&border=7F3FBF&background=0D1117" alt="Alfaturachman's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfaturachman&theme=radical&border=fe428e&background=0D1117" alt="Alfaturachman's GitHub streak"/>
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 </a>
 </p>
 
-![Alfaturachman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alfaturachman&custom_title=Alfaturachman's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Alfaturachman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alfaturachman&custom_title=Alfaturachman's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=39d353&line=39d353&point=39d353&area_color=39d353&title_color=FFFFFF&area=true)
 
 <!---
 Alfaturachman/Alfaturachman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
