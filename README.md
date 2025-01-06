@@ -15,9 +15,8 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Alfaturachman">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfaturachman&theme=radical&border=fe428e&background=0D1117" alt="Alfaturachman's GitHub streak"/>
-  </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alfaturachman&theme=dark&border_radius=5&sideNums=FFDE00&currStreakNum=FFDE00&ring=FF7A00&fire=FF7A00&currStreakLabel=FFDE00&sideLabels=FFDE00&stroke=FFDE00&border=FF7A00&dates=EBEBEB&background=45%2C0D1117%2C0D1117" alt="GitHub Streak" />
+</a>
 </p>
 
 <p align="center">
