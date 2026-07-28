@@ -3,12 +3,6 @@
 I graduated with a Diploma (D3) in Information Technology and am currently continuing my academic journey toward a Bachelor’s degree (S1) in Information Technology. My current focus lies in Software Engineering, Artificial Intelligence, Machine Learning, and Deep Learning.
 </p>
 
-<p align="left">
-  <a href="https://almavi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6B8E6E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3F4F44" alt="Portfolio" /></a>
-  <a href="mailto:alemaulana09@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D9897E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3F4F44" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/alfaturachman-maulana-pahlevi-4981302b6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3F4F44" alt="LinkedIn" /></a>
-</p>
-
 <h3>Github Information</h3>
 <p align="center">
  <table align="center">
