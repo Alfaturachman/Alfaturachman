@@ -1,6 +1,6 @@
 <h3>About Me</h3>
 <p align="left">
-I graduated with a Diploma (D3) in Information Technology and am currently pursuing a Bachelor’s degree (S1) in Information Technology. My background is primarily in Software Engineering and Web Development, with a growing focus on Artificial Intelligence, Machine Learning, and Deep Learning.
+I graduated with an Associate Degree in Information Technology and am currently pursuing a Bachelor’s degree in the same field. My background is primarily in Software Engineering and Web Development, with a growing focus on Artificial Intelligence, Machine Learning, and Deep Learning.
 </p>
 
 <h3>Github Information</h3>
